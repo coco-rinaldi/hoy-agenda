@@ -1,0 +1,9 @@
+{
+  "name": "hoy. — agenda personal",
+  "short_name": "hoy.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf9f6",
+  "theme_color": "#faf9f6",
+  "icons": []
+}
